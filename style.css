@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titulo{
+    margin: 30px;
+    padding-left: 160px;
+    font-size: 55px;
+    color: beige
+}
+
+.subtitulo{
+    padding-left: 237px;
+    font-size: 25px;
+    color: beige;
+}
